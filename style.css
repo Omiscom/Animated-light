@@ -1,0 +1,21 @@
+body{
+    background-color: aquamarine;
+}
+#bulb-control{
+    margin: 100px auto;
+    background-color: black;
+    width: 300px;
+    height: 200px;
+    align-items: center;
+    text-align: center;
+}
+.bulb-img{
+    padding: 20px 20px;
+}
+
+button{
+    background-color: greenyellow;
+    color: #fff;
+    border-style: none;
+    font-size: 1rem;
+}
